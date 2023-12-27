@@ -1,0 +1,175 @@
+[
+  {
+    "id": 100,
+    "name": "सब्ज़ियाँ",
+    "products": [
+      {
+        "id" : 1001,
+        "name" : "लहसुन",
+        "en_name" : "garlic",
+        "msg_name" : "lahsun",
+        "image" : "assets/images/garlic.jpg",
+        "measure_in" : "g",
+        "min_unit" : 1000,
+        "unit_price" : 0.08,
+        "increment_unit" : 100,
+        "buy_qty": 0,
+        "info" : null,
+        "stock" : "in-stock",
+        "stock_color": "green"
+      }, {
+        "id" : 1002,
+        "name" : "अदरक",
+        "en_name": "ginger",
+        "msg_name" : "adrak",
+        "image" : "assets/images/ginger.jpg",
+        "measure_in" : "g",
+        "min_unit" : 1000,
+        "unit_price" : 0.06,
+        "increment_unit" : 100,
+        "buy_qty": 0,
+        "info" : null,
+        "stock" : "in-stock",
+        "stock_color": "green"
+      }, {
+        "id" : 1003,
+        "name" : "पालक",
+        "en_name": "spinach",
+        "msg_name" : "palak",
+        "image" : "assets/images/spinach.jpg",
+        "measure_in" : "g",
+        "min_unit" : 1000,
+        "unit_price" : 0.03,
+        "increment_unit" : 100,
+        "buy_qty": 0,
+        "info" : "Comming in the session",
+        "stock" : "out-of-stock",
+        "stock_color": "green"
+      }, {
+        "id" : 1004,
+        "name" : "प्याज",
+        "en_name": "onion",
+        "msg_name" : "pyaj",
+        "image" : "assets/images/onion.png",
+        "measure_in" : "g",
+        "min_unit" : 1000,
+        "unit_price" : 0.04,
+        "increment_unit" : 100,
+        "buy_qty": 0,
+        "info" : "Comming in the session",
+        "stock" : "comming-soon",
+        "stock_color": "red"
+      }
+    ]
+  }, {
+    "id": 200,
+    "name": "फल",
+    "products": [
+      {
+        "id" : 2001,
+        "name" : "लहसुन",
+        "en_name" : "garlic",
+        "msg_name" : "lahsun",
+        "image" : "assets/images/garlic.jpg",
+        "measure_in" : "g",
+        "min_unit" : 1000,
+        "unit_price" : 0.08,
+        "increment_unit" : 100,
+        "buy_qty": 0,
+        "info" : null,
+        "stock" : "in-stock",
+        "stock_color": "green"
+      }, {
+        "id" : 2002,
+        "name" : "अदरक",
+        "en_name": "ginger",
+        "msg_name" : "adrak",
+        "image" : "assets/images/ginger.jpg",
+        "measure_in" : "g",
+        "min_unit" : 1000,
+        "unit_price" : 0.06,
+        "increment_unit" : 100,
+        "buy_qty": 0,
+        "info" : null,
+        "stock" : "in-stock",
+        "stock_color": "green"
+      }, {
+        "id" : 2003,
+        "name" : "पालक",
+        "en_name": "spinach",
+        "msg_name" : "palak",
+        "image" : "assets/images/spinach.jpg",
+        "measure_in" : "g",
+        "min_unit" : 1000,
+        "unit_price" : 0.03,
+        "increment_unit" : 100,
+        "buy_qty": 0,
+        "info" : "Comming in the session",
+        "stock" : "out-of-stock",
+        "stock_color": "green"
+      }, {
+        "id" : 2004,
+        "name" : "प्याज",
+        "en_name": "onion",
+        "msg_name" : "pyaj",
+        "image" : "assets/images/onion.png",
+        "measure_in" : "g",
+        "min_unit" : 1000,
+        "unit_price" : 0.04,
+        "increment_unit" : 100,
+        "buy_qty": 0,
+        "info" : "Comming in the session",
+        "stock" : "comming-soon",
+        "stock_color": "red"
+      }
+    ]
+  }, {
+    "id": 300,
+    "name": "घराट का आटा",
+    "products": [
+      {
+        "id" : 3001,
+        "name" : "गेहूं का आटा",
+        "en_name" : "wheat flour",
+        "msg_name" : "gehu ka aata",
+        "image" : "assets/images/wheat-aata.jpeg",
+        "measure_in" : "g",
+        "min_unit" : 1000,
+        "unit_price" : 0.08,
+        "increment_unit" : 100,
+        "buy_qty": 0,
+        "info" : null,
+        "stock" : "in-stock",
+        "stock_color": "green"
+      }, {
+        "id" : 3002,
+        "name" : "मक्के का आटा",
+        "en_name" : "maize flour",
+        "msg_name" : "makke ka aata",
+        "image" : "assets/images/wheat-aata.jpeg",
+        "measure_in" : "g",
+        "min_unit" : 1000,
+        "unit_price" : 0.08,
+        "increment_unit" : 100,
+        "buy_qty": 0,
+        "info" : null,
+        "stock" : "in-stock",
+        "stock_color": "green"
+      }, {
+        "id" : 3003,
+        "name" : "मल्टीग्रेन आटा",
+        "en_name": "multigrain flour",
+        "msg_name" : "bahu anaj aata",
+        "image" : "assets/images/wheat-aata.jpeg",
+        "measure_in" : "g",
+        "min_unit" : 1000,
+        "unit_price" : 0.03,
+        "increment_unit" : 100,
+        "buy_qty": 0,
+        "info" : "बहु-अनाज : बाजरा, मक्का, गेहू आटा",
+        "stock" : "out-of-stock",
+        "stock_color": "green"
+      }
+    ]
+  }
+]
